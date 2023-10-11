@@ -4,7 +4,8 @@ import '../styles/Navbar.css';
 
 export default function Navbar() {
   const handleDownloadResume = () => {
-    const resumePath = '/Nurellezia_resume.pdf';
+    const githubURL = 'https://elleziasuleiman.github.io/eeeportfolio/';
+    const resumePath = `${githubURL}Nurellezia_resume.pdf`;
     window.open(resumePath, '_blank');
   };
 
