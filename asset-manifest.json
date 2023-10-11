@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/eeeportfolio/static/css/main.20d7fcf4.css",
+    "main.js": "/eeeportfolio/static/js/main.4befaae2.js",
+    "static/js/787.79bd1db8.chunk.js": "/eeeportfolio/static/js/787.79bd1db8.chunk.js",
+    "static/media/idecs.png": "/eeeportfolio/static/media/idecs.af52490e1344b42b0b80.png",
+    "static/media/fyp.png": "/eeeportfolio/static/media/fyp.4c7be61b57d6b769c4ee.png",
+    "static/media/dreamcatcher.png": "/eeeportfolio/static/media/dreamcatcher.17e0002e98e44afa674a.png",
+    "static/media/umskal.png": "/eeeportfolio/static/media/umskal.dcbdd4a18958d7720e05.png",
+    "static/media/rapidminer2.png": "/eeeportfolio/static/media/rapidminer2.6eee5e6df5259ce84baf.png",
+    "static/media/rapidminer3.png": "/eeeportfolio/static/media/rapidminer3.94e4ebd541b2574afc45.png",
+    "static/media/elle-about.png": "/eeeportfolio/static/media/elle-about.03fac3bb1ce409bd3036.png",
+    "static/media/rapidminer1.png": "/eeeportfolio/static/media/rapidminer1.541d6080def6379c6d3a.png",
+    "static/media/logo.png": "/eeeportfolio/static/media/logo.8250fff2c8a48a5d0604.png",
+    "static/media/graduate.svg": "/eeeportfolio/static/media/graduate.8a4a23cfbdd0f5be43ace1def6704d50.svg",
+    "index.html": "/eeeportfolio/index.html",
+    "static/media/work.svg": "/eeeportfolio/static/media/work.014aac83e55c8e5fb3cdb8adf37660c7.svg",
+    "main.20d7fcf4.css.map": "/eeeportfolio/static/css/main.20d7fcf4.css.map",
+    "main.4befaae2.js.map": "/eeeportfolio/static/js/main.4befaae2.js.map",
+    "787.79bd1db8.chunk.js.map": "/eeeportfolio/static/js/787.79bd1db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20d7fcf4.css",
+    "static/js/main.4befaae2.js"
+  ]
+}
