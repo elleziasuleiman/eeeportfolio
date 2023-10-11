@@ -1,0 +1,30 @@
+.carousel img {
+    max-width: 30%; /* Adjust the size as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  /* Work.css */
+
+/* Style the container div */
+.Work-container {
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the heading */
+.Work-container h1 {
+  color: #000; /* Text color is black */
+  font-size: 24px;
+}
+
+/* Style the carousel */
+.Work-container .carousel-root {
+  margin-top: 20px;
+}
+
+/* Style the images */
+.Work-container .carousel-root img {
+  max-width: 100%;
+  height: auto;
+}

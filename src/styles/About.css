@@ -1,0 +1,50 @@
+
+.about-ct {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.left-cl {
+  flex: 1;
+  text-align: left;
+  color: #000; /* Text color is black */
+}
+
+.right-cl {
+  flex: 1;
+  text-align: right;
+  color: #000; /* Text color is black */
+}
+
+/* Shake animation keyframes */
+/* @keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-5px) rotate(-2deg); }
+  50% { transform: translateX(5px) rotate(2deg); }
+  75% { transform: translateX(-5px) rotate(-2deg); }
+  100% { transform: translateX(0); }
+} */
+
+
+.profile-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  /* animation: shake 1s infinite;  */
+}
+.text-description{
+
+font-family: 'Comic Sans MS';
+}
+.typewriter-text {
+  font-size: 30px; /* Adjust the font size as needed */
+  font-weight: bold;
+  font-family: 'Comic Sans MS', cursive; /* Use a fun font-family */
+  color: black; /* Make the text yellow */
+  /* Add other font-related styles as needed */
+}
+

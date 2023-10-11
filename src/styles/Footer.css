@@ -1,0 +1,55 @@
+/* Footer.css */
+.footer-section {
+  background-color: #d39b04;
+  padding: 50px 20px 20px 20px;
+  display: flex;
+  border-top: 3px solid #ccc;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.footer-icon-section {
+  display: flex;
+  gap: 20px;
+}
+
+.icon {
+  text-align: center;
+}
+
+.icon svg {
+  font-size: 48px;
+  border-radius: 50%;
+  background-color: white; 
+  padding: 10px;
+}
+
+.icon h3 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.icon p {
+  font-size: 16px;
+  margin: 0;
+}
+
+/* Styles for links */
+.icon a {
+  color: black;
+  text-decoration: underline;
+  transition: color 0.3s; 
+}
+
+.icon a:hover {
+  color: white; 
+}
+
+.icon p {
+  color: black; 
+  font-size: 16px;
+  margin: 0;
+}
