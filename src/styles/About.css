@@ -41,10 +41,10 @@
 font-family: 'Comic Sans MS';
 }
 .typewriter-text {
-  font-size: 30px; /* Adjust the font size as needed */
+  font-size: 30px; 
   font-weight: bold;
-  font-family: 'Comic Sans MS', cursive; /* Use a fun font-family */
-  color: black; /* Make the text yellow */
-  /* Add other font-related styles as needed */
+  font-family: 'Comic Sans MS', cursive; 
+  color: black; 
+  
 }
 
